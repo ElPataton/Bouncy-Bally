@@ -1,0 +1,5 @@
+- Cantidad de bolas 
+- Velocidad de bolas
+- Peso/Tamaño?
+- Tipo de bola
+- Valor de bola
