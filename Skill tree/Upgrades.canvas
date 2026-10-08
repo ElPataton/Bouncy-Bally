@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"4bdc3848c079b1bc","type":"file","file":"Skill tree/Ball Upgrades/Ball upgrades.md","x":-340,"y":220,"width":400,"height":400},
+		{"id":"5f7a7defefb99d6c","type":"file","file":"Skill tree/Effects upgrades/Effects upgrades.md","x":120,"y":220,"width":400,"height":400},
+		{"id":"67272f965d337c1d","type":"file","file":"Skill tree/Pin upgrades/Pin upgrades.md","x":-340,"y":660,"width":400,"height":400},
+		{"id":"86ce2067e6dadc04","type":"file","file":"Skill tree/Board Upgrades/Board upgrades.md","x":120,"y":660,"width":400,"height":400},
+		{"id":"172ef181d8ed8e1d","type":"file","file":"Skill tree/Lootbox Upgrades/Lootboxes upgrades.md","x":580,"y":220,"width":400,"height":400}
+	],
+	"edges":[]
+}

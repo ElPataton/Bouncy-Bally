@@ -3,3 +3,4 @@
 - [[Mult]] (Multiplicadores)
 - Reuso de bolas con probabilidad muy baja (teletransporte de vuelta arriba una vez caigan manteniendo multiplicadores) 
 - Combo?
+- Segundo tablero?

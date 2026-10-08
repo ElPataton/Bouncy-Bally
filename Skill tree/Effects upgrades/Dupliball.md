@@ -1,1 +1,2 @@
 #Effects
+Probabilidad de duplicarse una bola calculando de nuevo la trayectoria de la nueva bola para que no caigan en el mismo sitio hacer el clon ligeramente transparente para diferenciarlo del original

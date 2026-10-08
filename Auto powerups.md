@@ -1,0 +1,2 @@
+#Lootboxes 
+Desbloqueas una pequeña interfaz copia de tu tablero donde te permite planeear setups de power-ups que puedes automatizar su colocacion para que cuando tengas un poweup disponible se coloque automaticamente en el lugar, tiene que tener su propia interfaz/hotkeys para activar y desactivar la autocolocación.

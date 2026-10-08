@@ -1,5 +1,7 @@
 #Lootboxes 
 - Paredes
 	- Potenciador de velocidad
-	- Mayor valor de bola si pasan por zona especifica
-	- Clonacion de bolas al pasar por zona especifica
+	- Aumento de valor de bola 
+	- Clonacion de bolas 
+	- Muro que bloquee un canal por un numero limitado de bolas
+	-
