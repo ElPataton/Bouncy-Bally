@@ -25,8 +25,8 @@
               "state": {
                 "file": "Skill tree/Upgrades.canvas",
                 "viewState": {
-                  "x": 349,
-                  "y": 584,
+                  "x": 320,
+                  "y": 589.9296875,
                   "zoom": 0
                 }
               },
@@ -35,12 +35,26 @@
             }
           },
           {
+            "id": "1cfad9913ad2b4d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skill tree/Lootbox Upgrades/Lootbox powerups.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lootbox powerups"
+            }
+          },
+          {
             "id": "6dd84e23197c07cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Auto powerups.md",
+                "file": "Skill tree/Lootbox Upgrades/Auto powerups.md",
                 "mode": "source",
                 "source": false
               },
@@ -218,15 +232,17 @@
   },
   "active": "a7ae8e8102c923fd",
   "lastOpenFiles": [
-    "Skill tree/Lootbox Upgrades/Auto lootbox.md",
+    "Skill tree/Pin upgrades/Pin space.md",
     "Skill tree/Upgrades.canvas",
-    "Auto powerups.md",
+    "Skill tree/Lootbox Upgrades/Lootbox powerups.md",
+    "Skill tree/Ball Upgrades/Ball types.md",
+    "Skill tree/Ball Upgrades/Ball value.md",
+    "Skill tree/Skill tree.md",
+    "Skill tree/Lootbox Upgrades/Auto lootbox.md",
+    "Skill tree/Lootbox Upgrades/Auto powerups.md",
     "Skill tree/Lootbox Upgrades/Lootboxes upgrades.md",
     "Skill tree/Lootbox Upgrades/Lootbox Store.md",
     "Skill tree/Effects upgrades/Bouncy frenzy.md",
-    "Skill tree/Lootbox Upgrades/Lootbox powerups.md",
-    "Skill tree/Ball Upgrades/Ball types.md",
-    "Skill tree/Skill tree.md",
     "Skill tree/Effects upgrades/Dupliball.md",
     "Skill tree/Effects upgrades/Overclock.md",
     "Skill tree/Ball Upgrades/Ball upgrades.md",
@@ -236,7 +252,6 @@
     "Skill tree/Ball Upgrades/Ball quantity.md",
     "Bouncy Bally.md",
     "Untitled",
-    "Skill tree/Pin upgrades/Pin space.md",
     "Skill tree/Lootbox Upgrades/Lootbox Pins.md",
     "Skill tree/Pin upgrades",
     "Skill tree/Board Upgrades/Mult.md",
@@ -247,7 +262,6 @@
     "Skill tree/Pin upgrades/Pin value %.md",
     "Skill tree/Ball Upgrades",
     "Skill tree/Pin upgrades/Pin types.md",
-    "Skill tree/Ball Upgrades/Ball value.md",
     "Skill tree/Ball Upgrades/Ball speed.md",
     "Skill tree",
     "Bouncy Bally",

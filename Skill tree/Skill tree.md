@@ -1,4 +1,4 @@
-Mejoras disponibles
+Mejoras disponibles [[Upgrades.canvas]]
 
 Mejoras de bolas [[Ball upgrades]]
 
