@@ -1,5 +1,5 @@
 #Lootboxes 
-- Paredes
+- Paredes (mejorados con [[Plans]])
 	- Potenciador de velocidad
 	- Aumento de valor de bola 
 	- Clonacion de bolas 

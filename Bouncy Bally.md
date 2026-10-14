@@ -10,4 +10,4 @@ Un juego del tablero de Galton donde van cayendo bolas desde arriba. Una vez las
 - Pines que cambien el comportamiento de las bolas, estos pines son limitados y el usuario elije donde ponerlos, que se compren en lootboxes
 - Lootboxes: Contienen pines y mejoras de pines que pueden ser generales o específicas de pin, cada base de pin tendrá una pequeña interfaz especifica de mejora y sus estadísticas.
 - Tipos de bolas con efectos
-
+- [[Achievements]]
