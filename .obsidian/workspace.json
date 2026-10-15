@@ -11,10 +11,17 @@
             "id": "9edd20f43ed9fa71",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Skill tree/Upgrades.canvas",
+                "viewState": {
+                  "x": 320,
+                  "y": 640,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Upgrades"
             }
           },
           {
@@ -31,8 +38,7 @@
               "title": "Skill tree sprites"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,15 +205,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "a7ae8e8102c923fd",
+  "active": "9edd20f43ed9fa71",
   "lastOpenFiles": [
+    "Skill tree sprites.md",
+    "Skill tree/Upgrades.canvas",
+    "Skill tree/Achievements.md",
     "pixil-frame-0(1).png",
     "pixil-frame-0.png",
     "Skill tree/Skill tree.md",
-    "Skill tree sprites.md",
     "Skill tree/Ball Upgrades/Ball types.md",
-    "Skill tree/Upgrades.canvas",
-    "Skill tree/Achievements.md",
     "Skill tree/Plans.md",
     "Skill tree/Lootbox Upgrades/Lootbox powerups.md",
     "Skill tree/Lootbox Upgrades/Auto powerups.md",
