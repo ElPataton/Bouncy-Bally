@@ -1,5 +1,5 @@
 #Effects
-Mejoras individuales que cuando una bola golpea un pin puede adquirir con poca probabilidad
+Special upgrades that create an effect whenever a Ball hits a pin with a small chance
 - [[Overclock]]
 - [[Dupliball]]
-- [[Bouncy frenzy]]
+- [[Bouncy rage]]

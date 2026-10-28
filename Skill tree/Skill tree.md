@@ -1,13 +1,13 @@
-Mejoras disponibles [[Upgrades.canvas]]
+A big webbed Skill Tree that allows the player to spend money in order to buy different upgrades.
 
-Mejoras de bolas [[Ball upgrades]]
+Upgrade canvas [[Upgrades.canvas]]
 
-Mejoras de tablero [[Board upgrades]]
+[[Ball upgrades]]
 
-Mejoras de pines [[Pin upgrades]]
+[[Board upgrades]]
 
-Mejoras de lootboxes [[Lootboxes upgrades]]
+[[Pin upgrades]]
 
-Mejoras de efectos [[Effects upgrades]]
+[[Lootboxes upgrades]]
 
-[[Skill tree sprites]]
+[[Effects upgrades]]

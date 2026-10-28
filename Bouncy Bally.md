@@ -1,13 +1,12 @@
 Juego incremental del tablero de Galton/Plinko.
+An incremental game about Galton's board/Plinko
 
-# Premisa:
+# Premise
+A game of the Galton's board, where Balls fall from the top of the screen, once the Balls fall all the way down the board they will grant the player money based on the base vaule of the Ball with a multiplier depending on witch slot they have fallen in. With this money the player can buy upgrades that will make it easier to gain more money such as better Ball value, more Balls per batch or chances of different effects to occur.
 
-Un juego del tablero de Galton donde van cayendo bolas desde arriba. Una vez las bolas toquen el suelo, dependiendo de en qué parte del tablero caigan, darán su valor con el multiplicador del lugar donde hayan caído. Con este dinero que recibas podrás comprar mejoras que te ayuden a ganar más dinero, por ejemplo, más bolas por segundo, aumentar valor base o probabilidad de que la bola valga más.
-
-# ideas iniciales:
-
-- Skill tree [[Skill tree]]
-- Pines que cambien el comportamiento de las bolas, estos pines son limitados y el usuario elije donde ponerlos, que se compren en lootboxes
-- Lootboxes: Contienen pines y mejoras de pines que pueden ser generales o específicas de pin, cada base de pin tendrá una pequeña interfaz especifica de mejora y sus estadísticas.
-- Tipos de bolas con efectos
+# Initial Ideas
+- [[Skill tree]]
+- Pins that change the behaviour of the Balls, being able to put them down strategically
+- Lootboxes that grant pins, upgrades or random effects
+- Ball types
 - [[Achievements]]

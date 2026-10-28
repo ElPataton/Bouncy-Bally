@@ -1,2 +1,2 @@
 #Effects
-Probabilidad de duplicarse una bola calculando de nuevo la trayectoria de la nueva bola para que no caigan en el mismo sitio hacer el clon ligeramente transparente para diferenciarlo del original
+Chance to duplicate a Ball, this new Ball has a different trajectory and can activate it's own chances, meaning a DupliBall can also duplicate itself, duplicates have a transparency filter and their mult gain is halved but they conserve the original mult the original ball had at the moment of duplication.

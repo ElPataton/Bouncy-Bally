@@ -1,4 +1,3 @@
 #Lootboxes
 
-Se abre una tienda de lootboxes las cuales al comprar rollearan un numero aleatorio para ver que power-up temporal te toca
-Hay diferentes tipos de lootboxes tematicas por tipo de powerup, una general y ¿una de skins?º
+This upgrade opens a new interface with a Lootbox store, here Lootboxes can be bought that will grant different things from skins to pin types to small powers that you can use to enchance Ball performance, there are thematic Lootboxes for different kinds of rewards
