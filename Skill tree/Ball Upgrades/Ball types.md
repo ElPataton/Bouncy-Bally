@@ -2,18 +2,30 @@
 
 -----------------
 
-Base Ball
-Beach Ball (Heftier)
-Basket Ball (Bounces more witch makes it slower but in return has higher vaule/mult each bounce)
-Trick Ball (First bounce is always in a direction of your choice)
-Sticky Ball (Can stick on a pin and gain bounce on it multiple times)
+Base Ball 1
+
+Beach Ball (Heftier) 2
+
+Basket Ball (Bounces more witch makes it slower but in return has higher vaule/mult each bounce) 3
+
+Trick Ball (First bounce is always in a direction of your choice) 4
+
+Sticky Ball (Can stick on a pin and gain bounce on it multiple times) 5
+
 Golden Ball (Can always appear with low chance replacing any ball and has to look cool/win big moneys)
+
 EGG (???)
-Steel Ball (Really Hefty)
-Ghost Ball (Small and Speedy with low value overall also has a small better chance to proc Dupliball)
-Chemical Ball (Can add random effects to other pins or balls)
-Marble Balls (Cool balls, have a race between them)
+
+Steel Ball (Really Hefty) 6
+
+Ghost Ball (Small and Speedy with low value overall also has a small better chance to proc Dupliball) 7
+
+Chemical Ball (Can add random effects to other pins or balls) 8
+
+Marble Balls (Cool balls, have a race between them) 9
+
 Gambler Ball (Special ball, you can gamble on the mult that will land on, the rarer the mult the better the reward, OR Each time the ball finishes the batch you can decide to gamble the winnings or cash them, doing an all or nothing, the Ball has a 50/50 chance to loose all the value or use the last value as base value for the next batch OR if the ball has better mult than last batch counts as a win, if not as a loss)
+
 Constructor Ball (Small chance to give a ball a constructor hat, it gives [[Plans]])
 
 Ball types unlock with special currency called core shards, this core shards can be obtained by doing [[Achievements]]

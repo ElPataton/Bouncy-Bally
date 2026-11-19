@@ -16,7 +16,7 @@ Dynamic spatial zones, moving/reactive obstacles, and push-your-luck hazards tha
 
 ---
 
-# 1. Dynamic Board Zones
+# 1. Dynamic Board Zones Declined
 
 Board zones are spatial territories overlaid on sections of the Galton grid, encouraging players to aim drops or tune [[Pin upgrades|Directional Tweakers]] to exploit (or avoid) them.
 
@@ -38,7 +38,7 @@ Board zones are spatial territories overlaid on sections of the Galton grid, enc
 
 ---
 
-# 2. Moving & Reactive Obstacles
+# 2. Moving & Reactive Obstacles Mostly Declined
 
 ### Swinging Pendulum Gate
 - **Placement**: Suspended across the middle rows (Row 3–4), swinging smoothly left and right on a predictable beat.
@@ -50,7 +50,7 @@ Board zones are spatial territories overlaid on sections of the Galton grid, enc
 - **Placement**: Replaces 1–2 selected pins with spring-loaded **Pop-Bumpers** (on a short `1.5s` internal recharge).
 - **Interaction**: Hitting a charged Pop-Bumper blasts the ball upward/diagonally with a crisp *ding!*, awards a flat bonus, and emits a tiny radial knockback that can knock neighboring balls into mid-air collisions.
 
-### Portal Tubes (One-Way Warps)
+### Portal Tubes (One-Way Warps) (Explore as an ability)
 - **Placement**: Linked Entry/Exit rings—for example, an Entry portal in Row 5 (bottom-center) that warps balls back up to Row 2 (top-left or top-right).
 - **Payoff**: Lets balls run **extended multi-row loops** for massive `AccumulatedPinBonus` before finally dropping into the payout slots.
 - **Limit**: A ball can only use a Portal Tube once per drop (`1` warp tag) to prevent infinite loops.
@@ -61,7 +61,7 @@ Board zones are spatial territories overlaid on sections of the Galton grid, enc
 
 ---
 
-# 3. Risk-Reward Triggers & Hazards
+# 3. Risk-Reward Triggers & Hazards Mostly Declined
 
 ### The Trapdoor Pot (Push-Your-Luck Center Slot)
 - **Toggleable Mode**: Players can arm the **Trapdoor** on the center `×1` slot.
@@ -73,7 +73,7 @@ Board zones are spatial territories overlaid on sections of the Galton grid, enc
 > [!example] Push-Your-Luck Tension
 > Armed Trapdoor + **Micro-Flippers** or **Table Nudge** turns every center-drifting ball into a heart-pounding save—let the Danger Pot grow, or cash out on an edge slot!
 
-### Thermal Overheat Pins
+### Thermal Overheat Pins (Could work as a singular pin)
 - **Mechanic**: Pins track rapid consecutive hits on a **Thermal Gauge** (`0` → `5`).
   - **Hits 1–3 (Warm)**: Pin glows amber and adds `+0.25` extra heat bonus per contact.
   - **Hit 4 (Red-Hot)**: Pin sizzles; the ball becomes **Ignited**, leaving a flame trail that scorches the next `2` pins for `1.5x` contact bonus.

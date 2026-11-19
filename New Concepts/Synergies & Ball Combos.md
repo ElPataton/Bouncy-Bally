@@ -37,7 +37,7 @@ Instead of balls acting in isolated lanes, specific pairs trigger **emergent rea
 
 ---
 
-# 2. Pin-Ball Alchemy (Modifier × Ball Reactions)
+# 2. Pin-Ball Alchemy (Modifier × Ball Reactions) Don't overcomplicate it, this synergies should only affect the ball not the board pins
 
 Specific [[Pin upgrades|Pin Modifiers]] react uniquely with matching ball physics, turning standard pins into combo engines:
 
@@ -66,7 +66,7 @@ Specific [[Pin upgrades|Pin Modifiers]] react uniquely with matching ball physic
 
 ---
 
-# 3. Build-Defining Archetypes
+# 3. Build-Defining Archetypes Declined
 
 Combining **Batch Slots (`1–4`)**, **Batch Splitter**, **Pin Modifiers**, and **[[Plans]] Walls** enables four distinct playstyles:
 
@@ -85,7 +85,7 @@ Combining **Batch Slots (`1–4`)**, **Batch Splitter**, **Pin Modifiers**, and 
 
 ---
 
-# 4. Combo Codex (Discovery Progression)
+# 4. Combo Codex (Discovery Progression) Explore the idea with what's not declined
 
 To encourage experimentation across runs rather than sticking to one optimal setup:
 - **First-Time Discovery**: Triggering any Cross-Ball or Pin-Ball reaction for the first time pops a non-intrusive toast (`COMBO DISCOVERED: Phantom Cannonball!`) and unlocks its entry in the **Combo Codex**.

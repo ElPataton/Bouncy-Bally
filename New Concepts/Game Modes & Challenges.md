@@ -20,7 +20,7 @@ Replayability systems, run mutators, board bosses, and anti-repetition mechanics
 
 ---
 
-# 1. Run Mutators ("Board Anomalies")
+# 1. Run Mutators ("Board Anomalies") Declined
 
 Players can toggle **1–2 Anomalies** before starting a run (or encounter them in Challenge Modes) to twist physics and economy in exchange for bonus **Cores** and **Prestige Shards**.
 
@@ -37,7 +37,7 @@ Players can toggle **1–2 Anomalies** before starting a run (or encounter them 
 
 ---
 
-# 2. Board Bosses & Milestone Encounters
+# 2. Board Bosses & Milestone Encounters. Explore as random encounters based on time
 
 Instead of a purely passive climb to `$2,500`, optional **Gatekeeper Bosses** spawn directly *on* the Galton board at `$500` milestones:
 
@@ -46,7 +46,7 @@ Instead of a purely passive climb to `$2,500`, optional **Gatekeeper Bosses** sp
 - **Counterplay**: Hit its `2` orbiting shield pins `15` times—or bypass its pull with non-magnetic `Ghost` / `Beach` balls—to shatter it.
 - **Reward**: Drops a **Core Cache** (`+1` Core) and triggers a `10s` `×3` Golden Frenzy.
 
-### The Greedy Mimic Slot
+### The Greedy Mimic Slot 
 - **Mechanic**: Temporarily replaces one of your `Double slots` with a chomping Mimic that swallows balls for `$0` payout.
 - **Counterplay**: Feed it `10` balls (or hit it once with a `Gambler` or `Golden` ball) to overfill it.
 - **Reward**: Bursts open and pays out **2× the total value** of all swallowed balls at once.
@@ -58,7 +58,7 @@ Instead of a purely passive climb to `$2,500`, optional **Gatekeeper Bosses** sp
 
 ---
 
-# 3. Dedicated Game Modes
+# 3. Dedicated Game Modes Declined
 
 ### Daily Seeded Galton ("The Daily Board")
 - **Format**: Every player gets the exact same pre-tweaked pin layout, `2` locked Pin Modifiers, `1` active Anomaly, and a **10-Batch Score Attack** limit (no infinite idle).
@@ -77,7 +77,7 @@ Instead of a purely passive climb to `$2,500`, optional **Gatekeeper Bosses** sp
 
 ---
 
-# 4. Anti-Repetition Mechanics
+# 4. Anti-Repetition Mechanics. Save idea for the future
 
 ### Drafted Ascension Relics
 At the start of every [[Prestige|Prestige]] run, draft **1 of 3** run-altering Relics so Run `#12` plays differently from Run `#2`:
